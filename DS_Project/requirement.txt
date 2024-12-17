@@ -1,0 +1,12 @@
+pandas
+numpy
+datetime
+matplotlib
+seaborn
+netCDF4
+metpy
+django
+djangorestframework
+torch
+wandb
+scikit-learn
